@@ -1,0 +1,37 @@
+.education-container {
+    background-color: black;
+    color: white;
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .education-content {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .heading {
+    font-weight: bold;
+    font-size: 35px;
+  }
+  
+  .timeline {
+    margin-top: 40px;
+    padding-left: 30px;
+  }
+  
+  .timeline-item {
+    display: flex;
+    padding-left: 20px;
+    margin-bottom: 30px;
+    gap: 10px;
+    align-items: center;
+  }
+  
+  .timeline-item p{
+      margin-top: 8px;
+  }
+  
